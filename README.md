@@ -50,10 +50,7 @@ sudo apt install git
 # Enfin !! On peut télécharger le programme drive-autosync
 git clone https://github.com/simplon-roanne/drive-autosync
 
-# Cette dépendance contient la librairie python-daemon, mais cette fois installée via "pip"
-sudo apt install python-pip
-sudo pip install python-daemon
-```
+
 
 
 # Test de la commande
